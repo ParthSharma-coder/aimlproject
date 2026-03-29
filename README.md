@@ -1,0 +1,4 @@
+The stock market plays a significant role in the modern financial system by allowing individuals and institutions to invest in companies and generate wealth. However, real stock trading involves financial risks and requires understanding of market behaviour, portfolio management, and price fluctuations.
+This project titled “Stock Market Trading Simulator Using Python” is designed to simulate a simplified stock trading environment. The program allows users to buy and sell stocks, monitor their portfolio, and observe the changes in stock prices over time. The simulator mimics real market behaviour by generating random price fluctuations using mathematical models.
+The purpose of this project is to provide a safe virtual environment where users can understand how stock trading works without investing real money.
+# aimlproject
